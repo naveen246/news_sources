@@ -1,10 +1,24 @@
 {
     "India": {
         "Indian Express": "http://indianexpress.com/section/india/feed/",
-        "NDTV": "http://feeds.feedburner.com/ndtv/Lsgd"
+        "NDTV": "http://feeds.feedburner.com/ndtv/Lsgd",
+        "Yahoo News": "https://in.news.yahoo.com/rss/national"
     },
     "Technology": {
         "NDTV": "http://feeds.feedburner.com/NDTV-Tech",
-        "Reuters": "http://feeds.reuters.com/reuters/INtechnologyNews"
+        "Reuters": "http://feeds.reuters.com/reuters/INtechnologyNews",
+        "Yahoo News": "https://in.news.yahoo.com/rss/science-technology"
+    },
+    "Business": {
+    	"Yahoo News": "https://in.news.yahoo.com/rss/business"
+    },
+    "World": {
+    	"Yahoo News": "https://in.news.yahoo.com/rss/world"
+    },
+    "Sports": {
+    	"Yahoo News": "https://in.news.yahoo.com/rss/sports"
+    },
+    "Entertainment": {
+    	"Yahoo News": "https://in.news.yahoo.com/rss/entertainment"
     }
 }
