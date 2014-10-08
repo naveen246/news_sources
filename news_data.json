@@ -35,7 +35,7 @@
     "World": {
     	"Yahoo News": "https://in.news.yahoo.com/rss/world",
     	"Reuters": "http://feeds.reuters.com/reuters/INworldNews",
-    	"World": "http://feeds.feedburner.com/ndtv/TqgX",
+    	"NDTV": "http://feeds.feedburner.com/ndtv/TqgX",
     	"Times of India": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
     	"India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=61",
     	"Zee News": "http://zeenews.india.com/rss/world-news.xml",
