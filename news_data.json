@@ -2,23 +2,70 @@
     "India": {
         "Indian Express": "http://indianexpress.com/section/india/feed/",
         "NDTV": "http://feeds.feedburner.com/ndtv/Lsgd",
-        "Yahoo News": "https://in.news.yahoo.com/rss/national"
+        "Yahoo News": "https://in.news.yahoo.com/rss/national",
+        "Times of India": "http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+        "India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=36",
+        "Zee News": "http://zeenews.india.com/rss/india-national-news.xml",
+        "The Hindu": "http://www.thehindu.com/news/national/?service=rss",
+        "Hindustan Times": "http://feeds.hindustantimes.com/HT-India"
     },
     "Technology": {
         "NDTV": "http://feeds.feedburner.com/NDTV-Tech",
         "Reuters": "http://feeds.reuters.com/reuters/INtechnologyNews",
-        "Yahoo News": "https://in.news.yahoo.com/rss/science-technology"
+        "Yahoo News": "https://in.news.yahoo.com/rss/science-technology",
+        "Times of India": "http://timesofindia.indiatimes.com/rssfeeds/5880659.cms",
+        "Zee News": "http://zeenews.india.com/rss/science-technology-news.xml",
+        "Indian Express": "http://indianexpress.com/section/technology/feed/",
+        "The Hindu": "http://www.thehindu.com/sci-tech/?service=rss",
+        "Hindustan Times": "http://feeds.hindustantimes.com/HT-Gadgets-updates"
     },
     "Business": {
-    	"Yahoo News": "https://in.news.yahoo.com/rss/business"
+    	"Yahoo News": "https://in.news.yahoo.com/rss/business",
+    	"Reuters": "http://feeds.reuters.com/reuters/INbusinessNews",
+    	"NDTV": "http://feeds.feedburner.com/NDTV-Business",
+    	"Times of India": "http://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
+    	"Zee News": "http://zeenews.india.com/rss/business.xml",
+    	"The Hindu": "http://www.thehindu.com/business/?service=rss",
+    	"Hindustan Times": "http://feeds.hindustantimes.com/HT-Business",
+    	"Deccan Herald": "http://www.deccanherald.com/rss/business.rss"
     },
     "World": {
-    	"Yahoo News": "https://in.news.yahoo.com/rss/world"
+    	"Yahoo News": "https://in.news.yahoo.com/rss/world",
+    	"Reuters": "http://feeds.reuters.com/reuters/INworldNews",
+    	"World": "http://feeds.feedburner.com/ndtv/TqgX",
+    	"Times of India": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+    	"India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=61",
+    	"Zee News": "http://zeenews.india.com/rss/world-news.xml",
+    	"The Hindu": "http://www.thehindu.com/news/international/?service=rss",
+    	"Hindustan Times": "http://feeds.hindustantimes.com/HT-World"
     },
     "Sports": {
-    	"Yahoo News": "https://in.news.yahoo.com/rss/sports"
+    	"Yahoo News": "https://in.news.yahoo.com/rss/sports",
+    	"Reuters": "http://feeds.reuters.com/reuters/worldOfSport",
+    	"NDTV": "http://feeds.feedburner.com/NDTV-Cricket",
+    	"Times of India": "http://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+    	"India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=41",
+    	"Zee News": "http://zeenews.india.com/rss/sports-news.xml",
+    	"Indian Express": "http://indianexpress.com/section/sports/feed/",
+    	"The Hindu": "http://www.thehindu.com/sport/?service=rss",
+    	"Hindustan Times": "http://feeds.hindustantimes.com/HT-Sport",
+    	"Deccan Herald": "http://www.deccanherald.com/rss/sports.rss"
     },
     "Entertainment": {
-    	"Yahoo News": "https://in.news.yahoo.com/rss/entertainment"
+    	"Yahoo News": "https://in.news.yahoo.com/rss/entertainment",
+    	"Reuters": "http://feeds.reuters.com/reuters/INentertainmentNews",
+    	"NDTV": "http://feeds.feedburner.com/NDTV-Ent",
+    	"Times of India": "http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+    	"Indian Express": "http://indianexpress.com/section/entertainment/feed/",
+    	"The Hindu": "http://www.thehindu.com/entertainment/?service=rss",
+    	"Hindustan Times": "http://feeds.hindustantimes.com/HT-Entertainment",
+    	"Deccan Herald": "http://www.deccanherald.com/rss/entertainment.rss"
+    },
+    "Top Stories": {
+    	"Reuters": "http://feeds.reuters.com/reuters/INtopNews",
+    	"NDTV": "http://feeds.feedburner.com/NdtvNews-TopStories",
+    	"Times of India": "http://toi.timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    	"India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=120",
+    	"Deccan Herald": "http://www.deccanherald.com/rss-internal/top-stories.rss"
     }
 }
