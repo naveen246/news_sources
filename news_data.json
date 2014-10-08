@@ -7,7 +7,8 @@
         "India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=36",
         "Zee News": "http://zeenews.india.com/rss/india-national-news.xml",
         "The Hindu": "http://www.thehindu.com/news/national/?service=rss",
-        "Hindustan Times": "http://feeds.hindustantimes.com/HT-India"
+        "Hindustan Times": "http://feeds.hindustantimes.com/HT-India",
+        "IBN Live": "http://ibnlive.in.com/ibnrss/rss/india/india.xml"
     },
     "Technology": {
         "NDTV": "http://feeds.feedburner.com/NDTV-Tech",
@@ -17,7 +18,8 @@
         "Zee News": "http://zeenews.india.com/rss/science-technology-news.xml",
         "Indian Express": "http://indianexpress.com/section/technology/feed/",
         "The Hindu": "http://www.thehindu.com/sci-tech/?service=rss",
-        "Hindustan Times": "http://feeds.hindustantimes.com/HT-Gadgets-updates"
+        "Hindustan Times": "http://feeds.hindustantimes.com/HT-Gadgets-updates",
+        "IBN Live": "http://ibnlive.in.com/ibnrss/rss/tech/tech.xml"
     },
     "Business": {
     	"Yahoo News": "https://in.news.yahoo.com/rss/business",
@@ -27,7 +29,8 @@
     	"Zee News": "http://zeenews.india.com/rss/business.xml",
     	"The Hindu": "http://www.thehindu.com/business/?service=rss",
     	"Hindustan Times": "http://feeds.hindustantimes.com/HT-Business",
-    	"Deccan Herald": "http://www.deccanherald.com/rss/business.rss"
+    	"Deccan Herald": "http://www.deccanherald.com/rss/business.rss",
+    	"IBN Live": "http://ibnlive.in.com/ibnrss/rss/business/business.xml"
     },
     "World": {
     	"Yahoo News": "https://in.news.yahoo.com/rss/world",
@@ -37,7 +40,8 @@
     	"India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=61",
     	"Zee News": "http://zeenews.india.com/rss/world-news.xml",
     	"The Hindu": "http://www.thehindu.com/news/international/?service=rss",
-    	"Hindustan Times": "http://feeds.hindustantimes.com/HT-World"
+    	"Hindustan Times": "http://feeds.hindustantimes.com/HT-World",
+    	"IBN Live": "http://ibnlive.in.com/ibnrss/rss/world/world.xml"
     },
     "Sports": {
     	"Yahoo News": "https://in.news.yahoo.com/rss/sports",
@@ -49,7 +53,8 @@
     	"Indian Express": "http://indianexpress.com/section/sports/feed/",
     	"The Hindu": "http://www.thehindu.com/sport/?service=rss",
     	"Hindustan Times": "http://feeds.hindustantimes.com/HT-Sport",
-    	"Deccan Herald": "http://www.deccanherald.com/rss/sports.rss"
+    	"Deccan Herald": "http://www.deccanherald.com/rss/sports.rss",
+    	"IBN Live": "http://ibnlive.in.com/ibnrss/rss/sports/sports.xml"
     },
     "Entertainment": {
     	"Yahoo News": "https://in.news.yahoo.com/rss/entertainment",
@@ -59,13 +64,15 @@
     	"Indian Express": "http://indianexpress.com/section/entertainment/feed/",
     	"The Hindu": "http://www.thehindu.com/entertainment/?service=rss",
     	"Hindustan Times": "http://feeds.hindustantimes.com/HT-Entertainment",
-    	"Deccan Herald": "http://www.deccanherald.com/rss/entertainment.rss"
+    	"Deccan Herald": "http://www.deccanherald.com/rss/entertainment.rss",
+    	"IBN Live": "http://ibnlive.in.com/ibnrss/rss/moviesnews/moviesnews.xml"
     },
     "Top Stories": {
     	"Reuters": "http://feeds.reuters.com/reuters/INtopNews",
     	"NDTV": "http://feeds.feedburner.com/NdtvNews-TopStories",
     	"Times of India": "http://toi.timesofindia.indiatimes.com/rssfeedstopstories.cms",
     	"India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=120",
-    	"Deccan Herald": "http://www.deccanherald.com/rss-internal/top-stories.rss"
+    	"Deccan Herald": "http://www.deccanherald.com/rss-internal/top-stories.rss",
+    	"IBN Live": "http://ibnlive.in.com/ibnrss/top.xml"
     }
 }
