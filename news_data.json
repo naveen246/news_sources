@@ -76,8 +76,8 @@
     	"IBN Live": "http://ibnlive.in.com/ibnrss/top.xml"
     },
     "Kannada": {
-        "Prajavani State": "http://www.prajavani.net/taxonomy/term/30/all/feed",
-        "Prajavani National": "http://www.prajavani.net/taxonomy/term/31/all/feed",
+        "Prajavani-State": "http://www.prajavani.net/taxonomy/term/30/all/feed",
+        "Prajavani-National": "http://www.prajavani.net/taxonomy/term/31/all/feed",
         "Kannada Prabha": "http://www.kannadaprabha.com/sectionrss-1.html",
         "OneIndia": "http://kannada.oneindia.in/rss/kannada-news-fb.xml",
         "Cine Kannada": "http://www.cinekannada.com/feed/",
