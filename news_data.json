@@ -32,7 +32,7 @@
     	"Deccan Herald": "http://www.deccanherald.com/rss/business.rss",
     	"IBN Live": "http://ibnlive.in.com/ibnrss/rss/business/business.xml"
     },
-    "World": {
+    "International": {
     	"Yahoo News": "https://in.news.yahoo.com/rss/world",
     	"Reuters": "http://feeds.reuters.com/reuters/INworldNews",
     	"NDTV": "http://feeds.feedburner.com/ndtv/TqgX",
@@ -74,5 +74,13 @@
     	"India Today": "http://indiatoday.intoday.in/rss/article.jsp?sid=120",
     	"Deccan Herald": "http://www.deccanherald.com/rss-internal/top-stories.rss",
     	"IBN Live": "http://ibnlive.in.com/ibnrss/top.xml"
+    },
+    "Kannada": {
+        "Prajavani-State": "http://www.prajavani.net/taxonomy/term/30/all/feed",
+        "Prajavani-National": "http://www.prajavani.net/taxonomy/term/31/all/feed",
+        "Kannada Prabha": "http://www.kannadaprabha.com/sectionrss-1.html",
+        "OneIndia": "http://kannada.oneindia.in/rss/kannada-news-fb.xml",
+        "Cine Kannada": "http://www.cinekannada.com/feed/",
+        "Sahil Online": "http://www.sahilonline.org/kannada/feed/"
     }
 }
